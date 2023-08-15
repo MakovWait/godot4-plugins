@@ -22,3 +22,9 @@ script-tabs
 ----
 <p align="center"><img src="https://github.com/MakovWait/godot-script-tabs/blob/main/assets/screenshot.png" width="50%"/></p>
 <p align="center">Move scripts list to tabs with <a href="https://github.com/MakovWait/godot-script-tabs">godot-script-tabs</a>.</p>
+
+
+improved-resource-picker
+----
+<p align="center"><img src="https://user-images.githubusercontent.com/39778897/150674676-a026b70f-b3f0-4851-bcf1-1b7c65057461.png"></p>
+<p align="center">Search for resources with <a href="https://github.com/MakovWait/improved_resource_picker">improved-resource-picker</a>.</p>
